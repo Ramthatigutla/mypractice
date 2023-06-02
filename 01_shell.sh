@@ -26,6 +26,7 @@ echo "looking into the content"
 
 cat first.txt
 
+$ cat /home/centos/mypractice/01_shell.sh | mail -s "test mail" urram78@email.com
 
 
 
