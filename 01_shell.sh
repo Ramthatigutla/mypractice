@@ -29,7 +29,7 @@ cat first.txt
 #$ cat /home/centos/mypractice/01_shell.sh | mail -s "test mail" urram78@email.com
 
 
-curl https://globedrill.com/mail-command-not-found-install-mail-command/#:~:text=I%20got%20the%20above%20error,to%20fix%20the%20above%20error. >>& /tmp/new.log
+curl https://globedrill.com/mail-command-not-found-install-mail-command/#:~:text=I%20got%20the%20above%20error,to%20fix%20the%20above%20error. &>>/tmp/new.log
 
 echo "awesome"
 
