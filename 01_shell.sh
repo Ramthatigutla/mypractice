@@ -26,8 +26,7 @@ echo "looking into the content"
 
 cat first.txt
 
-echo "removing directory"
-rm -rf firstone
+
 
 
 
