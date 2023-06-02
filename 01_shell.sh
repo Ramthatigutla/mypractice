@@ -1,8 +1,8 @@
 #This is my first own shell script
 ************************************
-Author     : Ram
-Created on : 03-06-2023
-Description: Basic Linux commands
+#Author     : Ram
+#Created on : 03-06-2023
+#Description: Basic Linux commands
 ************************************
 
 echo "Current working directory"
