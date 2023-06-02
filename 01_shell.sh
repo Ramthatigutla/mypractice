@@ -31,3 +31,5 @@ cat first.txt
 
 curl https://globedrill.com/mail-command-not-found-install-mail-command/#:~:text=I%20got%20the%20above%20error,to%20fix%20the%20above%20error. >>& /tmp/new.log
 
+echo "awesome"
+
